@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 目录结构
+vue.config.js   配置文件
+main.js   应用入口文件(所有的初始化都可在里面)
+
