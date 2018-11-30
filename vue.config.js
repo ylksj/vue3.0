@@ -50,7 +50,7 @@ module.exports = {
   devServer: {
     // 本地域名: 'localhost','127.0.0.0',真机测试域名:'0.0.0.0'
     host: "0.0.0.0",
-    port: 8001, // 端口号
+    port: 8002, // 端口号
     https: false, // https:{type:Boolean}
     open: true, //配置自动启动浏览器  http://172.16.1.12:7071/rest/mcdPhoneBar/
     hotOnly: false, // 热更新

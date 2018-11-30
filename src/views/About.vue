@@ -146,4 +146,8 @@ export default {
   component: {}
 };
 </script>
+<style> 
+@import'../../public/css/style.css';
+@import'../../public/css/icon.css';
+</style>
 
